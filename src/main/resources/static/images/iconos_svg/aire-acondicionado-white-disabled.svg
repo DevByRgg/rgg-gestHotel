@@ -1,0 +1,24 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" 
+    xmlns="http://www.w3.org/2000/svg">
+	<g fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".3">
+        <path d="M256 32 V480"/>
+        <path d="M224 64 L256 96 L288 64"/>
+        <path d="M232 152 L256 176 L280 152"/>
+        <path d="M224 448 L256 416 L288 448"/>
+        <path d="M232 360 L256 336 L280 360"/>
+
+        <path d="M32 256 H480"/>
+        <path d="M64 224 L96 256 L64 288"/>
+        <path d="M152 232 L176 256 L152 280"/>
+        <path d="M448 224 L416 256 L448 288"/>
+        <path d="M360 232 L336 256 L360 280"/>
+        
+        <path d="M96 96 L416 416"/>
+        <path d="M108 148 L148 148 L148 108"/>
+        <path d="M404 364 L364 364 L364 404"/>
+        
+        <path d="M96 416 L416 96"/>
+        <path d="M108 364 L148 364 L148 404"/>
+        <path d="M364 108 L364 148 L404 148"/>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 256 512" 
+    xmlns="http://www.w3.org/2000/svg">
+	<style/>
+	<g fill="none" stroke="#000" stroke-width="8">
+		<circle cx="128" cy="56" r="40" stop-color="#000"/>
+		<path d="M16 154 L16 266
+                    A 20 20 1 0 0 56 266 L56 154 L68 154 L68 476
+                    A 26 26 1 0 0 120 476 L120 296 L136 296 L136 476
+                    A 26 26 1 0 0 188 476 L188 154 L200 154 L200 266
+                    A 20 20 1 0 0 240 266 L240 154 
+                    A 40 40 1 0 0 200 110 L56 110 
+                    A 40 40 1 0 0 16 154"
+        />
+	</g>
+</svg>

@@ -1,0 +1,5 @@
+
+-Hacer la logica de realizar la reserva
+-Faltan botones de realizar reserva y vaciar cesta
+-crear zona de administracion de reservas
+-la gestion de las reservas tal vez con un modal que pida user and pass??
