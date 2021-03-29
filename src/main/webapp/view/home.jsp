@@ -16,12 +16,12 @@
 
 		<!-- Logotipo corporativo -->
 
-		<a class="navbar-brand text-light" href="/hotel"> <img
+		<a class="navbar-brand text-light" href="/"> <img
 			src="./images/iconos/hotel_logo_512px.png" width="30" height="30"
 			class="rounded float-left" alt="Volver a home">Home
 		</a>
 		
-		<a class="btn btn-outline-light text-light font-weight-bold float-right" href="/hotel/admin">Login</a>
+		<a class="btn btn-outline-light text-light font-weight-bold float-right" href="/admin">Login</a>
 		
 	</nav>
 
@@ -43,7 +43,7 @@
 					</div>
 
 					<div class="card-footer">
-						<a class="btn btn-info font-weight-bold float-right" href="/hotel/crearHomeHabitaciones?idHotel=${hotel.id}">Seleccionar</a>
+						<a class="btn btn-info font-weight-bold float-right" href="/crearHomeHabitaciones?idHotel=${hotel.id}">Seleccionar</a>
 					</div>
 					
 				</div>

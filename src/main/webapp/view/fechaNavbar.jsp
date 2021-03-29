@@ -4,7 +4,7 @@
 <nav class="navbar bg-light mt-3">
 	
 	<div class="container-md w-75">
-		<form action="/hotel/diasReserva" method="GET">
+		<form action="/diasReserva" method="GET">
 			<div class="btn-group btn-group-lg input-group input-daterange" id="selectorFechas">
   				<div class="btn btn-outline-white">Desde</div>
   				<input type="date" class="btn btn-outline-info fechas" id="fechaEntrada" name="fechaEntrada"></input>

@@ -35,6 +35,6 @@
 		</ul>
 	</div>
 	
-	<a class="btn btn-outline-light text-light font-weight-bold float-right" href="/hotel/">Home</a>
+	<a class="btn btn-outline-light text-light font-weight-bold float-right" href="/">Home</a>
 	
 </nav>

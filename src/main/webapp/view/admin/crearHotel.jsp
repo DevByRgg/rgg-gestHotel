@@ -20,7 +20,7 @@
 		</h2>
 		
 		<!-- Forumulario -->
-		<form action="/hotel/admin/crearHotelControl" method="GET">
+		<form action="/admin/crearHotelControl" method="GET">
 
 			<!-- Id de la Hotel -->
 			<div class="form-group mt-4">

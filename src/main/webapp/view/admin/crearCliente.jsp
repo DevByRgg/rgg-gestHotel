@@ -18,7 +18,7 @@
 		</h2>
 		
 		<!-- Forumulario -->
-		<form action="/hotel/admin/crearClienteControl" method="GET">
+		<form action="/admin/crearClienteControl" method="GET">
 						
 			<!-- Nombre del hotel -->
 			<div class="form-group mt-4">

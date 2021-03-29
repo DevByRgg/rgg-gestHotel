@@ -18,7 +18,7 @@
 		</h2>
 		
 		<!-- Forumulario -->
-		<form action="/hotel/admin/crearHabitacionControl" method="GET">
+		<form action="/admin/crearHabitacionControl" method="GET">
 			<!-- Id del Hotel -->
 			<div class="form-group w-25 mt-1">
 				<label class="text-secondary font-weight-bold" for="idHotel">Nombre del Hotel</label>
