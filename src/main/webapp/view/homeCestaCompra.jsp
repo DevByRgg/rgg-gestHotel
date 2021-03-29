@@ -15,7 +15,7 @@
 <!-- -------NAVBAR TITULO---------------------------------------------------------------------------------------------------------- -->	
 	
 	<nav class="navbar bg-info mb-0">
-		<a class="navbar-brand text-light" href="/hotel">
+		<a class="navbar-brand text-light" href="/">
 			<img src="./images/iconos/hotel_logo_512px.png" width="30" height="30" class="rounded float-left" alt="Volver a home">Home
 		</a>
 		
@@ -139,7 +139,7 @@
     									</a>
     								</c:when>
     								<c:otherwise>
-    									<a class="mr-2" href="/hotel/eliminarHabitacionCesta?idHabitacion=${reserva.value.producto.id}&cantidad=${reserva.value.unidades}">
+    									<a class="mr-2" href="/eliminarHabitacionCesta?idHabitacion=${reserva.value.producto.id}&cantidad=${reserva.value.unidades}">
     										<img width="16" height="16" title="Eliminar una habitacion" src="./images/iconos_svg/circulo-menos.svg" alt="menos">
     									</a>
     								</c:otherwise>
@@ -147,11 +147,11 @@
     							
     							<span class="mr-2">${reserva.value.unidades}</span>
     							
-    							<a class="mr-4" href="/hotel/anadirHabitacionCesta?idHabitacion=${reserva.value.producto.id}">
+    							<a class="mr-4" href="/anadirHabitacionCesta?idHabitacion=${reserva.value.producto.id}">
     								<img width="16" height="16" title="Añadir una habitacion" src="./images/iconos_svg/circulo-mas.svg" alt="mas">
     							</a>
     							
-    							<a class="mr-2" href="/hotel/quitarHabitacionCesta?idHabitacion=${reserva.value.producto.id}">
+    							<a class="mr-2" href="/quitarHabitacionCesta?idHabitacion=${reserva.value.producto.id}">
     								<img width="16" height="16" class="text-info" title="Eliminar todas" src="./images/icons_bootstrap/trash.svg" alt="eliminar">
     							</a>
     							

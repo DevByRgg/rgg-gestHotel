@@ -125,7 +125,7 @@
 					</c:choose>
 
 					
-					<a type="button" class="btn btn-info float-right" href="/hotel/reservarHabitacion?idHotel=${hotel.id}&idHabitacion=${habitacion.id}">Reservar</a>
+					<a type="button" class="btn btn-info float-right" href="/reservarHabitacion?idHotel=${hotel.id}&idHabitacion=${habitacion.id}">Reservar</a>
 					
 					<h4 class="card-text mr-5 float-right">${habitacion.precioNoche}€</h4>
 					
