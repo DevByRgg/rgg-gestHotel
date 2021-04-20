@@ -31,7 +31,7 @@
 		<!-- Forumulario -->
 		<table class="table table-striped">
 			<thead>
-				<tr tr class="table-info">
+				<tr class="table-info">
 					<th class="align-middle text-left" scope="col">Id</th>
 					<th class="align-middle text-left" scope="col">Hotel</th>
 					<th class="align-middle text-left" scope="col">Nombre</th>

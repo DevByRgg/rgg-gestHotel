@@ -16,7 +16,7 @@
 	<div class="container-md w-50">
 		<!-- Titulo -->
 		<h2 class="paddingTop20">
-			Planta <span class="badge badge-secondary bg-info text-white">CREAR</span>
+			Hotel <span class="badge badge-secondary bg-info text-white">CREAR</span>
 		</h2>
 		
 		<!-- Forumulario -->
